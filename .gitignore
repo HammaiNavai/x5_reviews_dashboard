@@ -1,0 +1,9 @@
+data/
+venv/
+.__pycahe__/
+
+*.ipynb
+*.html
+*.csv
+
+.DS_Store
